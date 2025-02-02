@@ -1,0 +1,47 @@
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {
+    color: #304EA2 !important;
+}
+
+.skin-blue .sidebar-menu>li.header {
+    background: #304EA2 !important;
+}
+
+.fa-mail-forward:before,
+.fa-share:before {
+    color: #304EA2;
+}
+
+.fa-home:before {
+    color: #304EA2;
+}
+
+.fa-angle-right:before {
+    color: #304EA2;
+}
+
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a {
+    color: #304EA2 !important;
+}
+
+.skin-blue .treeview-menu>li.active>a,
+.skin-blue .treeview-menu>li>a:hover {
+    color: #304EA2 !important;
+}
+
+.logo-lg{
+    width: 65% !important;
+    height: 90% !important;
+}
+
+@media screen and (max-width: 767px) {
+    .logo-lg {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}

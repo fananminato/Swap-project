@@ -1,0 +1,15 @@
+.text-custom {
+    color: #304EA2 !important;
+}
+
+.btn-success {
+    background-color: #146734 !important;
+    border-color: #146734 !important;
+}
+
+.btn-success.focus,
+.btn-success:focus {
+    color: #fff;
+    background-color: #d71920 !important;
+    border-color: #d71920 !important;
+}
